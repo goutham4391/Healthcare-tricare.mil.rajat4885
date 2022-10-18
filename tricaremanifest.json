@@ -1,0 +1,19 @@
+﻿{
+  "short_name": "TRICARE",
+  "name": "TRICARE",
+  "description": "The Official Website of the Defense Health Agency",
+  "dir": "rtl",
+  "lang": "en-US",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/_inc/img/TRICARE_logo_large.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "white",
+  "theme_color": "white",
+  "start_url": "/?launcher=true"
+}
